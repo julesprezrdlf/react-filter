@@ -1,0 +1,70 @@
+[
+    {
+        "countries": [
+          {
+            "name": "Spain",
+            "versions": [
+              {
+                "title": "Version 1",
+                "text": "Some text for Spain v1"
+              },
+              {
+                "title": "Version 2",
+                "text": "Some text for Spain v2"
+              },
+              {
+                "title": "Version 3",
+                "text": "Some text for Spain v3"
+              },
+              {
+                "title": "Version 4",
+                "text": "Some text for Spain v4"
+              }
+            ]
+          },
+          {
+            "name": "France",
+            "versions": [
+              {
+                "title": "Version 1",
+                "text": "Some text for France v1"
+              },
+              {
+                "title": "Version 2",
+                "text": "Some text for France v2"
+              },
+              {
+                "title": "Version 3",
+                "text": "Some text for France v3"
+              },
+              {
+                "title": "Version 4",
+                "text": "Some text for France v4"
+              }
+            ]
+          },
+          {
+            "name": "Brazil",
+            "versions": [
+              {
+                "title": "Version 1",
+                "text": "Some text for Brazil v1"
+              },
+              {
+                "title": "Version 2",
+                "text": "Some text for Brazil v2"
+              },
+              {
+                "title": "Version 3",
+                "text": "Some text for Brazil v3"
+              },
+              {
+                "title": "Version 4",
+                "text": "Some text for Brazil v4"
+              }
+            ]
+          }
+        ]
+      }
+      
+]
