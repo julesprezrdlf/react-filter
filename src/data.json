@@ -36,10 +36,6 @@
               {
                 "title": "Version 3",
                 "text": "Some text for France v3"
-              },
-              {
-                "title": "Version 4",
-                "text": "Some text for France v4"
               }
             ]
           },
@@ -53,14 +49,6 @@
               {
                 "title": "Version 2",
                 "text": "Some text for Brazil v2"
-              },
-              {
-                "title": "Version 3",
-                "text": "Some text for Brazil v3"
-              },
-              {
-                "title": "Version 4",
-                "text": "Some text for Brazil v4"
               }
             ]
           }
