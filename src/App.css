@@ -1,44 +1,41 @@
+.app-container {
+	background-color: #ebebeb;
+	height: 100vh;
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
+  }
+
+  .box-container{
+	background-color: #ffffff;
+  }
+  
+  .innerbox-container{
+	background-color: #e7eef3;
+  }
+
+  .activefilters-container .tag{
+	background-color: rgb(184, 204, 246);
+	padding: 5px 20px;
+	border-radius: 99px;
+	display: inline-flex;
+	align-items: center;
+  }
+
+  .activefilters-container .tag:hover{
+	background-color: rgb(177, 199, 247);
+  }
+
+  .activefilters-container .tag .close-icon {
+	width: 15px;
+	height: 15px;
+	margin-left: 5px;
+	cursor: pointer;
+  }
+  
+  .activefilters-container .tag .close-icon line {
+	stroke: currentColor;
+  }
+
+  .clear-filters p{
+	color:rgb(132, 132, 132);
+	cursor: pointer;
+  }
